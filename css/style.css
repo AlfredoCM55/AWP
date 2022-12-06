@@ -159,29 +159,26 @@ body{
     transform: scale(1.2,1.2);
 }
 
-@media(max-width:1200px){
-    #logo{
-        width: 40%;
+@media (max-width: 1200px) {
+    #logo {
+      width: 40%;
     }
-}
-
-@media(max-width:844px){
-    #logo{
-        width: 100%;
-        text-align: center;
+  }
+  
+  @media (max-width: 844px) {
+    #logo {
+      width: 100%;
+      text-align: center;
     }
-}
-
-@media(max-width:1472px){
-    
-    .formaServicios{
-        width: 97%;
-
+  }
+  
+  @media (max-width: 1472px) {
+    .formaServicios {
+      width: 100%;
     }
-
-    .forma{
-        width: 97%;
+  
+    .forma {
+      width: 100%;
     }
-} 
-
+  }
 
