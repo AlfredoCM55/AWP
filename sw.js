@@ -13,8 +13,8 @@ self.addEventListener('install', e=>{
             'images/wheel.jpg',
             'images/twiter.png',
             'images/LEFLEUR.mp4',
-            'images/TYLER.mp4',
-            'images/CREATOR.mp4',
+            'images/GEORGIA.mp4',
+            'images/Sunseekers.mp4',
             'images/twiter.png',
             'main.js'
         ])
